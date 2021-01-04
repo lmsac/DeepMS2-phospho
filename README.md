@@ -179,7 +179,7 @@ Spectral matching is a sensitive method that supplements the probability-based a
 
 
 ## Publications
-Yi Yang, Peter Horvatovich, and Liang Qiao. Tandem Mass Spectrum Prediction Facilitates Site Localization of Phosphorylation, Submitted.
+Yang, Y., Horvatovich, P., Qiao, L. Fragment mass spectrum prediction facilitates site localization of phosphorylation. *J Proteome Res* **20**, 634–644 (2021). https://doi.org/10.1021/acs.jproteome.0c00580
 
 ## License
 DeepMS2-phospho functions (in [`code/functions`](code/functions)) are distributed under a BSD license. See the LICENSE file for details.
